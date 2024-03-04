@@ -1,3 +1,7 @@
-a = 10
-b = 20 
-print(a + b)
+def hello():
+  print("Hey")
+
+def bye():
+  print("Bye")
+
+print(hello())
